@@ -1,0 +1,61 @@
+[ {
+  "baseItem" : {
+    "id" : "_4ep5QEcGEe6pqbPwXqFw2g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_NiIcEFe7Ee69NsD1ypCQAw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_v4tzoEcFEe6pqbPwXqFw2g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_v4tzoEcFEe6pqbPwXqFw2g - livraison_carburant",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_v4tzoEcFEe6pqbPwXqFw2g - stock_carburant",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_v4tzoEcFEe6pqbPwXqFw2g - vente_carburant",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_j1PmEFCaEe6IJqp1H6Zk1g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_rFNiIFtuEe67p9NecmXHxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_v4tzoEcFEe6pqbPwXqFw2g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "FloatComparator",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]

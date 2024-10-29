@@ -1,0 +1,3 @@
+ALL Param for global config
+	- absolute path of the project
+	- login (maybe)

@@ -1,0 +1,875 @@
+1722345863251	geckodriver	INFO	Listening on 127.0.0.1:59066
+1722345962195	geckodriver	INFO	Listening on 127.0.0.1:59122
+1722347062473	geckodriver	INFO	Listening on 127.0.0.1:59634
+1722347065502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileCUDr7x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722347065905	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722347065991	Marionette	INFO	Listening on port 59652
+WebDriver BiDi listening on ws://127.0.0.1:59635
+Read port: 59652
+1722347066150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59635/devtools/browser/480fc9c6-e4cd-446a-af1f-8a80b8acc8d9
+1722347095938	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3432: TypeError: event.target.closest is not a function
+1722347359185	Marionette	INFO	Stopped listening on port 59652
+Dynamically enable window occlusion 1
+... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileaiXTAB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722347107310	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722347107382	Marionette	INFO	Listening on port 59725
+WebDriver BiDi listening on ws://127.0.0.1:59714
+Read port: 59725
+1722347107532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59714/devtools/browser/dfb7f55e-8e7f-4b83-9309-4a2d53accf68
+1722347113849	Marionette	INFO	Stopped listening on port 59725
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2b9f480d100","state":{"remoteTypePrefix":"prealloc"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3916,"stack":""}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11608, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1722347812981	geckodriver	INFO	Listening on 127.0.0.1:60145
+1722347816038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofile24quUH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722347816431	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722347816506	Marionette	INFO	Listening on port 60154
+WebDriver BiDi listening on ws://127.0.0.1:60146
+Read port: 60154
+1722347816659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60146/devtools/browser/2d89c0ea-5aeb-42cc-b6a2-7e7591c71d8d
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+1722347846462	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+[Parent 23472, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1722347868915	Marionette	INFO	Stopped listening on port 60154
+Dynamically enable window occlusion 1
+1722347955886	geckodriver	INFO	Listening on 127.0.0.1:60270
+1722347958900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofile62j2WA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722347959235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722347959319	Marionette	INFO	Listening on port 60280
+WebDriver BiDi listening on ws://127.0.0.1:60271
+Read port: 60280
+1722347959477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60271/devtools/browser/153caf85-e027-41c4-9c03-2633831bdb79
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722347989267	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript warning: http://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000b32c0380, line 6: unreachable code after return statement
+JavaScript warning: http://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000b32c0380, line 7: unreachable code after return statement
+JavaScript warning: http://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000b32c0380, line 8: unreachable code after return statement
+JavaScript warning: http://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000b32c0380, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/AC8AACL5$iICANt6JLTDveA5FmE, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/DMS_LivraisonCarburant_cat/AC8AACgTASMCAA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+1722402016041	Marionette	INFO	Stopped listening on port 60280
+Dynamically enable window occlusion 1
+1722402090938	geckodriver	INFO	Listening on 127.0.0.1:58388
+1722402093967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileYTuOdI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722402094431	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722402094518	Marionette	INFO	Listening on port 58396
+WebDriver BiDi listening on ws://127.0.0.1:58389
+Read port: 58396
+1722402094836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58389/devtools/browser/bee9dfe6-7071-4074-a489-6265d6670684
+1722402117635	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1722402124459	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/ServiceRequest.sys.mjs, line 98: TypeError: Services.policies.getActivePolicies().filter is not a function
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1722402144848	Marionette	INFO	Stopped listening on port 58396
+Dynamically enable window occlusion 1
+1722402147402	geckodriver	INFO	Listening on 127.0.0.1:58497
+1722402150467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileCrhXC1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722402150750	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722402150825	Marionette	INFO	Listening on port 58506
+WebDriver BiDi listening on ws://127.0.0.1:58498
+Read port: 58506
+1722402150975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58498/devtools/browser/c62c4731-09eb-424e-81f5-65a2bc4bc79b
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722402180771	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, l1722402477828	mozrunner::runner	INFO	Running command: "C:\\Pr1722402478234	Marionette	INFO	Stopped listening on port 58506
+Dynamically enable window occlusion 1
+... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileLnQX0q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722402478142	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722402478266	Marionette	INFO	Listening on port 58674
+WebDriver BiDi listening on ws://127.0.0.1:58665
+Read port: 58674
+1722402478465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58665/devtools/browser/29149658-2fde-4513-9985-1a35feafb6cf
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+1722402508153	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/qC0AABpGDCMHACmxYCBNXM_sYTw, line 845: unreachable code after return statement
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3432: TypeError: event.target.closest is not a function
+1722402514675	Marionette	INFO	Stopped listening on port 58674
+Dynamically enable window occlusion 1
+1722402873823	geckodriver	INFO	Listening on 127.0.0.1:59183
+1722402876822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofilesTp3BS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722402877233	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722402877307	Marionette	INFO	Listening on port 59191
+WebDriver BiDi listening on ws://127.0.0.1:59184
+Read port: 59191
+1722402877458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59184/devtools/browser/d22419b6-f461-41be-9604-f92fbe9c2b2c
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722402907253	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/QC8AAB16EiMFALfjZWTtffOIau4, line 845: unreachable code after return statement
+1722403053047	Marionette	INFO	Stopped listening on port 59191
+Dynamically enable window occlusion 1
+1722403080213	geckodriver	INFO	Listening on 127.0.0.1:59256
+1722403083246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofile9lJEB4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722403083534	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722403083606	Marionette	INFO	Listening on port 59266
+WebDriver BiDi listening on ws://127.0.0.1:59257
+Read port: 59266
+1722403083758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59257/devtools/browser/f8aceaf2-120c-4751-ad84-755470e17bfb
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+1722403113555	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3432: TypeError: event.target.closest is not a function
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3432: TypeError: event.target.closest is not a function
+JavaScript error: chrome://browser/content/tabbrowser.js, line 6319: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWebProgress.removeProgressListener]
+1722403154215	Marionette	INFO	Stopped listening on port 59266
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1722403156574	geckodriver	INFO	Listening on 127.0.0.1:59306
+1722403159588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofile81DNCC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722403159889	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722403159962	Marionette	INFO	Listening on port 59314
+WebDriver BiDi listening on ws://127.0.0.1:59307
+Read port: 59314
+1722403160117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59307/devtools/browser/1341d725-cca7-43ec-ae51-693776a91c93
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+1722403189909	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript error: javascript:pl_affichepage('CONTROLE_STOCK'), line 1: ReferenceError: pl_affichepage is not defined
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/IAAAAJWLGCMKAIQyDPWp_wfxGlY, line 845: unreachable code after return statement
+1722403691705	Marionette	INFO	Stopped listening on port 59314
+Dynamically enable window occlusion 1
+1722403757171	geckodriver	INFO	Listening on 127.0.0.1:59554
+1722403760209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofile6FtMf9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722403760578	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722403760649	Marionette	INFO	Listening on port 59562
+WebDriver BiDi listening on ws://127.0.0.1:59555
+Read port: 59562
+1722403760798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59555/devtools/browser/86a7f29d-078a-43ec-ad88-71198ab147a2
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722403790597	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript error: javascript:pl_affichepage('DMS_JOURNEE'), line 1: ReferenceError: pl_affichepage is not defined
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/vBoAAA1iICMMAAqp9lPudnMJQ18, line 845: unreachable code after return statement
+1722403880906	Marionette	INFO	Stopped listening on port 59562
+Dynamically enable window occlusion 1
+1722407594200	geckodriver	INFO	Listening on 127.0.0.1:62137
+1722407597246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileBSkhx1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722407597734	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722407597827	Marionette	INFO	Listening on port 62145
+WebDriver BiDi listening on ws://127.0.0.1:62138
+Read port: 62145
+1722407598146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62138/devtools/browser/8aead8bc-2025-447d-affa-254e5b16703e
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+1722407627765	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://edcamis.eurodata.fr/EDCMS_WEB/V20240517.5/res/ProcNav.js?40000411e82ef, line 6: unreachable code after return statement
+JavaScript warning: https://edcamis.eurodata.fr/EDCMS_WEB/V20240517.5/res/ProcNav.js?40000411e82ef, line 7: unreachable code after return statement
+JavaScript warning: https://edcamis.eurodata.fr/EDCMS_WEB/V20240517.5/res/ProcNav.js?40000411e82ef, line 8: unreachable code after return statement
+JavaScript warning: https://edcamis.eurodata.fr/EDCMS_WEB/V20240517.5/res/ProcNav.js?40000411e82ef, line 9: unreachable code after return statement
+JavaScript warning: https://edcamis.eurodata.fr/edcms, line 68: unreachable code after return statement
+JavaScript warning: https://edcamis.eurodata.fr/edcms, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://edcamis.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://edcamis.eurodata.fr."
+JavaScript warning: https://edcamis.eurodata.fr/EDCMS_WEB/V20240517.5/res/ProcNav.js?40000411e82ef, line 6: unreachable code after return statement
+JavaScript warning: https://edcamis.eurodata.fr/EDCMS_WEB/V20240517.5/res/ProcNav.js?40000411e82ef, line 7: unreachable code after return statement
+JavaScript warning: https://edcamis.eurodata.fr/EDCMS_WEB/V20240517.5/res/ProcNav.js?40000411e82ef, line 8: unreachable code after return statement
+JavaScript warning: https://edcamis.eurodata.fr/EDCMS_WEB/V20240517.5/res/ProcNav.js?40000411e82ef, line 9: unreachable code after return statement
+JavaScript warning: https://edcamis.eurodata.fr/edcms/identification/ICoAAPBgXCMDADW8NmqbiDWrd$w, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722407803014	Marionette	INFO	Stopped listening on port 62145
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 472: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2189fe0b300","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3916,"stack":""}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 4756, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1722407850871	geckodriver	INFO	Listening on 127.0.0.1:62302
+1722407853903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileFQvjDa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722407964526	geckodriver	INFO	Listening on 127.0.0.1:62374
+1722407967571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofile2lGvao"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722407967855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722407967928	Marionette	INFO	Listening on port 62387
+WebDriver BiDi listening on ws://127.0.0.1:62375
+Read port: 62387
+1722407968075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62375/devtools/browser/26743733-49b2-48c3-92d8-be069573adca
+1722407997886	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/gAYAAHZsYCMFABMQYfsNq0JSPpQ, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+1722408309673	Marionette	INFO	Stopped listening on port 62387
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileNeIew4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722408304693	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722408304768	Marionette	INFO	Listening on port 58533
+WebDriver BiDi listening on ws://127.0.0.1:58525
+Read port: 58533
+1722408304909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58525/devtools/browser/81b6ae08-9734-471e-87ea-c0c067013683
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722408334721	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/6C4AAIFUZSMIAKQfAsQvroHlrkg, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+1722408445677	Marionette	INFO	Stopped listening on port 58533
+Dynamically enable window occlusion 1
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 370))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1fff3f5bb00","state":{"remoteTypePrefix":"prealloc"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3916,"stack":""}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 18064, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1722409614571	geckodriver	INFO	Listening on 127.0.0.1:59164
+1722409617604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileW6kAJX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722409617923	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722409617999	Marionette	INFO	Listening on port 59172
+WebDriver BiDi listening on ws://127.0.0.1:59165
+Read port: 59172
+1722409618053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59165/devtools/browser/ff2ddd88-d5e0-41c6-846a-b81d1c80cf56
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722409647947	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/$CAAAECdeSMKAK_l6D23FW6uf9k, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/$CAAAECdeSMKAK_l6D23FW6uf9k, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722409749949	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/oCkAAPnweiMLAKwaVgBGpwRDHak, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722410356563	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/BCEAAIYrhCMHAAbesXhg$0Donog, line 845: unreachable code after return statement
+1722410400438	Marionette	INFO	Stopped listening on port 59172
+Dynamically enable window occlusion 1
+1722410411452	geckodriver	INFO	Listening on 127.0.0.1:59576
+1722410414485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofilez1TQxR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722410414875	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+1722410414922	Marionette	INFO	Listening on port 59590
+WebDriver BiDi listening on ws://127.0.0.1:59577
+Read port: 59590
+1722410415039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+DevTools listening on ws://127.0.0.1:59577/devtools/browser/7c91f06e-bae0-4440-be1d-a9ecdd8052ba
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3432: TypeError: event.target.closest is not a function
+1722410591464	Marionette	INFO	Stopped listening on port 59590
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1acd23d9b00","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3916,"stack":""}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15736, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+vironment
+1722410599250	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722410599321	Marionette	INFO	Listening on port 59623
+WebDriver BiDi listening on ws://127.0.0.1:59615
+Read port: 59623
+1722410599463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59615/devtools/browser/11ab2aca-f51f-4485-9ffe-a498ec256580
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722410629278	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript error: javascript:pl_affichepage('CONTROLE_STOCK'), line 1: ReferenceError: pl_affichepage is not defined
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/yAoAAGQqiSMMAOi_iDpwCCHlkfA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/DMS_ValidationJournee/yAoAANJSiyMMAA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/Controle_Stock_Carburant_cat/yAoAAKXuiyMMAA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/Controle_Stock_Carburant_cat/yAoAAJUCjSMMAA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/Controle_Stock_Carburant_cat/yAoAANg$jiMMAA, line 845: unreachable code after return statement
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3432: TypeError: event.target.closest is not a function
+1722412041723	Marionette	INFO	Stopped listening on port 59623
+Dynamically enable window occlusion 1
+1722412366219	geckodriver	INFO	Listening on 127.0.0.1:60390
+1722412369252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofile7epxOU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722412369635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722412369711	Marionette	INFO	Listening on port 60398
+WebDriver BiDi listening on ws://127.0.0.1:60391
+Read port: 60398
+1722412369872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60391/devtools/browser/e7c76ac6-17ab-4075-a548-6fd293f3de14
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+1722412399662	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+[Parent 23540, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1722412553842	Marionette	INFO	Stopped listening on port 60398
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2a96022f200","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3916,"stack":""}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 23540, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+vironment
+1722412566028	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722412566104	Marionette	INFO	Listening on port 60454
+WebDriver BiDi listening on ws://127.0.0.1:60447
+Read port: 60454
+1722412566277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60447/devtools/browser/1bf4814c-873d-49bc-b867-2a275a3ca3dd
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722412596055	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript error: javascript:pl_affichepage('CONTROLE_STOCK'), line 1: ReferenceError: pl_affichepage is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 1: ReferenceError: clWDUtil is not defined
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/qA0AAMd3pyMOAD5us5nxwPdUZrw, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript error: javascript:pl_affichepage('CONTROLE_STOCK'), line 1: ReferenceError: pl_affichepage is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript error: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 1: ReferenceError: clWDUtil is not defined
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/dAgAAKMBqSMPAF3MGCoXHIZAJUc, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/DMS_LivraisonCarburant_cat/dAgAAB2_qSMPAA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+1722412934729	Marionette	INFO	Stopped listening on port 60454
+Dynamically enable window occlusion 1
+1722412942657	geckodriver	INFO	Listening on 127.0.0.1:60617
+1722412945712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofilePU2eAL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722412946005	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722412946076	Marionette	INFO	Listening on port 60626
+WebDriver BiDi listening on ws://127.0.0.1:60618
+Read port: 60626
+1722412946220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60618/devtools/browser/1763c5dc-b5bf-4344-83ee-662921ef9d89
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+1722412976023	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms, line 68: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12432, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1722413086689	Marionette	INFO	Stopped listening on port 60626
+Dynamically enable window occlusion 1
+1722413099474	geckodriver	INFO	Listening on 127.0.0.1:60673
+1722413102517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileSeFjrC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722413102811	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722413102884	Marionette	INFO	Listening on port 60681
+WebDriver BiDi listening on ws://127.0.0.1:60674
+Read port: 60681
+1722413103025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60674/devtools/browser/e3a98ddf-1423-4e30-a2eb-933e4de86736
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+1722413132840	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/gAgAAJnjryMQAGWDvkggpc$Q_zs, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/gAgAAJnjryMQAGWDvkggpc$Q_zs, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/gAgAAB42sCMQAA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/DMS_ValidationJournee/gAgAAIuMsCMQAA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+1722413568453	Marionette	INFO	Stopped listening on port 60681
+Dynamically enable window occlusion 1
+1722413581024	geckodriver	INFO	Listening on 127.0.0.1:60817
+1722413584071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HARIVO~1\\AppData\\Local\\Temp\\rust_mozprofileeVaB1N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1722413584381	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+1722413584471	Marionette	INFO	Listening on port 60825
+Read port: 60825
+WebDriver BiDi listening on ws://127.0.0.1:60818
+1722413584540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60818/devtools/browser/cf92cbf1-bba2-44a3-b80c-ab6f8f049283
+console.warn: "nsPrompter: isThirdPartyURI failed: [Exception... \"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrincipal.isThirdPartyURI]\"  nsresult: \"0x80070057 (NS_ERROR_ILLEGAL_VALUE)\"  location: \"JS frame :: resource://gre/modules/Prompter.sys.mjs :: openPrompt :: line 1131\"  data: no]"
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+1722413614397	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/, line 68: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blueedcms.eurodata.fr."
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/identification/7AAAAOJKtiMLAB$IAU$h0dYDu5c, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/DMS_ValidationJournee/7AAAAEfMtiMLAA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?40000e5102084, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/Controle_Stock_Carburant_cat/7AAAANUstyMLAA, line 845: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 6: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 7: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 8: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/EDCMS_WEB/V20240518.6/res/ProcNav.js?4000021127f43, line 9: unreachable code after return statement
+JavaScript warning: https://blueedcms.eurodata.fr/edcms/Controle_Stock_Carburant_cat/7AAAAGojuCMLAA, line 845: unreachable code after return statement
+1722414060710	Marionette	INFO	Stopped listening on port 60825
+Dynamically enable window occlusion 1

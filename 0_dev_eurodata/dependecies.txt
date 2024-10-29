@@ -1,0 +1,7 @@
+# dependencies
+easygui v0.98.3
+selenium v4.11.2
+
+
+# pip install custom version of a package
+pip install package_name==1.0.0
